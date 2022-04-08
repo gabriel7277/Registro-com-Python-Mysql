@@ -11,7 +11,7 @@ sql = "INSERT INTO clientes(nome, idade ,email) VALUES (%s,%s,%s)"
 val = [
 
     ("Gabriel", 23, "gabriel@gmail.com"),
-    ("gb", 25, "gabriel@gmail.com")
+    ("Gabriel F", 25, "gabriel@gmail.com")
 
 
 
